@@ -13,7 +13,7 @@ Skill / Job Recommender Application
 |        **Team ID**        |  PNT2022TMID29374 |
 
 
-## __Team Size : 5__
+## __Team Size : 4__
 
 
 |Team Leader :| Divya J|
